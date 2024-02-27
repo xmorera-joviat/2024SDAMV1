@@ -2,8 +2,7 @@
  * 
  */
 /**
- * @author user
- *
+ * 
  */
-module sdamv1 {
+module bguilanya_ide {
 }
